@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "862077066181",
+    "project_id": "santander-dev-week-ea73d",
+    "storage_bucket": "santander-dev-week-ea73d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862077066181:android:b5f332a29fce304893c9ac",
+        "android_client_info": {
+          "package_name": "com.brunomotadev.santanderdevweek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862077066181-t6jtagmun69dogohlv439oku205aeekg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA73VZGkOsgmANfqbbGKIxcQ7Wks-ktG_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862077066181-t6jtagmun69dogohlv439oku205aeekg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

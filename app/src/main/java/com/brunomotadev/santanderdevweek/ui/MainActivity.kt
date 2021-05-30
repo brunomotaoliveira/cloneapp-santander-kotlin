@@ -11,6 +11,7 @@ import androidx.lifecycle.ViewModelProvider
 import com.brunomotadev.santanderdevweek.R
 import com.brunomotadev.santanderdevweek.data.Conta
 import org.w3c.dom.Text
+import java.lang.RuntimeException
 
 class MainActivity : AppCompatActivity() {
 
@@ -23,6 +24,8 @@ class MainActivity : AppCompatActivity() {
 
         mainViewModel = ViewModelProvider(this).get(MainViewModel::class.java)
         buscarContaCliente()
+
+
     }
 
     private fun buscarContaCliente(){
