@@ -13,7 +13,6 @@
         android:background="?attr/colorPrimary"
         android:minHeight="?attr/actionBarSize"
         android:theme="?attr/actionBarTheme"
-        app:title="@string/app_name"
         app:titleTextColor="@android:color/white"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"
@@ -306,4 +305,26 @@
         app:layout_constraintBottom_toBottomOf="@id/iv_cartao_final_content"
         app:layout_constraintTop_toTopOf="@id/iv_cartao_final_content"
         app:layout_constraintEnd_toEndOf="@id/iv_cartao_final_content"/>
+
+    <ImageView
+        android:id="@+id/logoSantander"
+        android:layout_width="225dp"
+        android:layout_height="32dp"
+        android:layout_marginBottom="10dp"
+        android:src="@drawable/ic_logosantander"
+        app:layout_constraintBottom_toBottomOf="@id/toolbar"
+        app:layout_constraintEnd_toEndOf="@id/toolbar"
+        app:layout_constraintStart_toStartOf="@id/toolbar"
+        app:layout_constraintTop_toTopOf="@id/toolbar" />
+
+    <ImageView
+        android:id="@+id/menuBurger"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:src="@drawable/ic_menu_black_24dp"
+        app:layout_constraintBottom_toBottomOf="@id/toolbar"
+        app:layout_constraintStart_toStartOf="@id/tv_usuario"
+        app:layout_constraintTop_toTopOf="@id/toolbar" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -7,7 +7,7 @@ import com.brunomotadev.santanderdevweek.data.Conta
 class FakeData {
     fun getLocalData():Conta{
         val cliente = Cliente("Bruno")
-        val cartao = Cartao("6586456849564")
+        val cartao = Cartao("0021")
         return Conta(
             "444565-4",
             "6552-4",
