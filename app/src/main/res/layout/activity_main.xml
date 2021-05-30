@@ -156,7 +156,7 @@
         </androidx.constraintlayout.widget.ConstraintLayout>
     </com.google.android.material.card.MaterialCardView>
 
-    // PAGAR
+    <!-- PAGAR -->
     <com.google.android.material.card.MaterialCardView
         android:id="@+id/mcv_pagar"
         android:layout_width="115dp"
@@ -193,7 +193,7 @@
 
     </com.google.android.material.card.MaterialCardView>
 
-    //TRANSFERIR
+    <!-- TRANSFERIR -->
     <com.google.android.material.card.MaterialCardView
         android:id="@+id/mcv_transferir"
         android:layout_width="115dp"
@@ -230,7 +230,7 @@
 
     </com.google.android.material.card.MaterialCardView>
 
-    // RECARREGAR
+    <!-- RECARREGAR -->
     <com.google.android.material.card.MaterialCardView
         android:id="@+id/mcv_recarregar"
         android:layout_width="115dp"
