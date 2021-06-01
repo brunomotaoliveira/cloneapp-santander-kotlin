@@ -1,6 +1,6 @@
 ## Santander Dev Week
 
-
+![](https://github.com/brunomotadev/santander-devweek-mobile/blob/main/images-github/santanderdevweek-kotlin.JPG)
 
 
 
@@ -24,7 +24,7 @@ Aplicação desenvolvida na plataforma mobile em Kotlin, durante a Santander Dev
 
 ## 📷 Screenshots
 
-
+![](https://github.com/brunomotadev/santander-devweek-mobile/blob/main/images-github/tela-app.jpg)
 
 ## Desenvolvido por
 
